@@ -252,6 +252,10 @@ input[type="time"]::-webkit-calendar-picker-indicator {
   text-align: center;
 }
 
+.timesheet-overtime input::-webkit-input-placeholder {
+  font-size: .5em;
+}
+
 /* SALARY DEDUCTIONS */
 
 .salary-deductions {
